@@ -1,1 +1,1 @@
-# siva-teeraform-sfjbs
+# siva-terraform-sfjbs
